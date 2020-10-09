@@ -11,6 +11,7 @@ class Pokemon
   end
   
   def save 
+    sql = ""
   end 
   
   def self.find
